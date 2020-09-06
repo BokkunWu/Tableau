@@ -1,0 +1,2 @@
+The data comes from Guttmacher Institute’s report: Adding It Up: Investing in Contraception and Maternal and Newborn Health, 2017. This report is representative of an ongoing
+research project at Guttmacher Institute which assesses the need and use, as well as the cost and impact, of sexual and reproductive health services in LMICs.
